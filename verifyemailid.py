@@ -1,10 +1,37 @@
 import re
 import csv
+import sys
 import pandas as pd
 
 regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 valid_email_id_flag = '0'
-my_str = []
+
+
+def validate_password(password):
+    l, u, p, d = 0, 0, 0, 0
+    if (len(password) >= 8):
+        for i in password:
+
+            # counting lowercase alphabets
+            if (i.islower()):
+                l += 1
+
+            # counting uppercase alphabets
+            if (i.isupper()):
+                u += 1
+
+            # counting digits
+            if (i.isdigit()):
+                d += 1
+
+            # counting the mentioned special characters
+            if (i == '@' or i == '$' or i == '_'):
+                p += 1
+    if (l >= 1 and u >= 1 and p >= 1 and d >= 1 and l + p + u + d == len(password)):
+        print("Valid Password")
+    else:
+        print("Invalid Password")
+        sys.exit()
 
 def check(email):
     # pass the regular expression
@@ -35,6 +62,7 @@ if (valid_email_id_flag == '1'):
             first_name = input('Enter the first name : ')
             last_name = input('Enter the last name : ')
             password = input('Enter the password : ')
+            validate_password(password)
             email_id = user_name
             with open('employee_file2.csv', mode='a') as csv_file:
                 fieldnames = ['username', 'firstname', 'lastname', 'email','password']
