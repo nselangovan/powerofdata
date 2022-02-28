@@ -190,7 +190,7 @@ print(int_vect / 1 / 1 )
 # 28. What are the result of the following expressions?
 print('28. What are the result of the following expressions?')
 # print(np.array(0) / np.array(0))
-print(np.array(0) // np.array(0))
+# print(np.array(0) // np.array(0))
 print(np.array([np.nan]).astype(int).astype(float))
 
 # 29. How to round away from zero a float array ?
@@ -331,6 +331,176 @@ print('46. Create a structured array with x and y coordinates covering the [0,1]
 cord_z = np.zeros((5, 5), [('x', float), ('y', float)])
 cord_z['x'], cord_z['y'] = np.meshgrid(np.linspace(0, 1, 5), np.linspace(0, 1, 5))
 print(cord_z['x'], cord_z['y'])
+# 47. Given two arrays, X and Y, construct the Cauchy matrix C (Cij =1/(xi - yj))
+print ('47. Given two arrays, X and Y, construct the Cauchy matrix C (Cij =1/(xi - yj))')
+
+X = np.arange(8)
+Y = X + 0.5
+C = 1.0 / np.subtract.outer(X, Y)
+print(np.linalg.det(C))
+
+# 48. Print the minimum and maximum representable value for each numpy scalar type
+print('48. Print the minimum and maximum representable value for each numpy scalar type ')
+for dtype in [np.int8, np.int32, np.int64]:
+   print(np.iinfo(dtype).min)
+   print(np.iinfo(dtype).max)
+for dtype in [np.float32, np.float64]:
+   print(np.finfo(dtype).min)
+   print(np.finfo(dtype).max)
+   print(np.finfo(dtype).eps)
+# 49. How to print all the values of an array?
+print('49. How to print all the values of an array?')
+np.set_printoptions(threshold=float("inf"))
+Z = np.zeros((40,40))
+print(Z)
+
+# 50. How to find the closest value (to a given scalar) in a vector?
+print('50. How to find the closest value (to a given scalar) in a vector?')
+Z = np.arange(100)
+v = np.random.uniform(0,100)
+index = (np.abs(Z-v)).argmin()
+print(Z[index])
 print("******************** End of 50 questions ********************")
 
+# 51. Create a structured array representing a position (x,y) and a color (r,g,b)
+print('51. Create a structured array representing a position (x,y) and a color (r,g,b)')
+Z = np.zeros(10, [ ('position', [ ('x', float, 1),
+                                  ('y', float, 1)]),
+                   ('color',    [ ('r', float, 1),
+                                  ('g', float, 1),
+                                  ('b', float, 1)])])
+print(Z)
+
+# 52. Consider a random vector with shape (100,2) representing coordinates, find point by point distances
+print('52. Consider a random vector with shape (100,2) representing coordinates, find point by point distances ')
+Z = np.random.random((10,2))
+X,Y = np.atleast_2d(Z[:,0], Z[:,1])
+D = np.sqrt( (X-X.T)**2 + (Y-Y.T)**2)
+print(D)
+
+# Much faster with scipy
+import scipy
+# Thanks Gavin Heverly-Coulson (#issue 1)
+import scipy.spatial
+
+Z = np.random.random((10,2))
+D = scipy.spatial.distance.cdist(Z,Z)
+print(D)
+
+# 53. How to convert a float (32 bits) array into an integer (32 bits) in place?
+print('53. How to convert a float (32 bits) array into an integer (32 bits) in place?')
+Z = (np.random.rand(10)*100).astype(np.float32)
+Y = Z.view(np.int32)
+Y[:] = Z
+print(Y)
+
+# 54. How to read the following file?
+print('54. How to read the following file?')
+
+from io import StringIO
+
+# Fake file
+s = StringIO('''1, 2, 3, 4, 5
+                6,  ,  , 7, 8
+                 ,  , 9,10,11
+''')
+Z = np.genfromtxt(s, delimiter=",", dtype=np.int)
+print(Z)
+# 55. What is the equivalent of enumerate for numpy arrays?
+print('55. What is the equivalent of enumerate for numpy arrays?')
+Z = np.arange(9).reshape(3,3)
+for index, value in np.ndenumerate(Z):
+    print(index, value)
+for index in np.ndindex(Z.shape):
+    print(index, Z[index])
+
 print("******************** End of 55 questions ********************")
+# 56. Generate a generic 2D Gaussian-like array
+print('56. Generate a generic 2D Gaussian-like array')
+X, Y = np.meshgrid(np.linspace(-1,1,10), np.linspace(-1,1,10))
+D = np.sqrt(X*X+Y*Y)
+sigma, mu = 1.0, 0.0
+G = np.exp(-( (D-mu)**2 / ( 2.0 * sigma**2 ) ) )
+print(G)
+
+#### 57. How to randomly place p elements in a 2D array?
+print('57. How to randomly place p elements in a 2D array?')
+n = 10
+p = 3
+Z = np.zeros((n,n))
+np.put(Z, np.random.choice(range(n*n), p, replace=False),1)
+print(Z)
+
+# 58. Subtract the mean of each row of a matrix
+print('58. Subtract the mean of each row of a matrix')
+X = np.random.rand(5, 10)
+# Recent versions of numpy
+Y = X - X.mean(axis=1, keepdims=True)
+# Older versions of numpy
+Y = X - X.mean(axis=1).reshape(-1, 1)
+
+print(Y)
+# 59. How to sort an array by the nth column?
+print('59. How to sort an array by the nth column?')
+
+Z = np.random.randint(0,10,(3,3))
+print(Z)
+print(Z[Z[:,1].argsort()])
+
+# 60. How to tell if a given 2D array has null columns?
+print('60. How to tell if a given 2D array has null columns?')
+Z = np.random.randint(0,3,(3,10))
+print((~Z.any(axis=0)).any())
+
+print("******************** End of 60 questions ********************")
+# 61. Find the nearest value from a given value in an array
+print('61. Find the nearest value from a given value in an array')
+
+Z = np.random.uniform(0,1,10)
+z = 0.5
+m = Z.flat[np.abs(Z - z).argmin()]
+print(m)
+
+# 62. Considering two arrays with shape (1,3) and (3,1), how to compute their sum using an iterator?
+print('62. Considering two arrays with shape (1,3) and (3,1), how to compute their sum using an iterator?')
+A = np.arange(3).reshape(3,1)
+B = np.arange(3).reshape(1,3)
+it = np.nditer([A,B,None])
+for x,y,z in it: z[...] = x + y
+print(it.operands[2])
+
+# 63. Create an array class that has a name attribute
+print('63. Create an array class that has a name attribute')
+
+class NamedArray(np.ndarray):
+    def __new__(cls, array, name="no name"):
+        obj = np.asarray(array).view(cls)
+        obj.name = name
+        return obj
+    def __array_finalize__(self, obj):
+        if obj is None: return
+        self.info = getattr(obj, 'name', "no name")
+
+Z = NamedArray(np.arange(10), "range_10")
+print (Z.name)
+
+# 64. Consider a given vector, how to add 1 to each element indexed by a second vector (be careful with repeated indices)?
+print('64. Consider a given vector, how to add 1 to each element indexed by a second vector (be careful with repeated indices)?')
+Z = np.ones(10)
+I = np.random.randint(0,len(Z),20)
+Z += np.bincount(I, minlength=len(Z))
+print(Z)
+
+# Another solution
+# Author: Bartosz Telenczuk
+np.add.at(Z, I, 1)
+print(Z)
+
+# 65. How to accumulate elements of a vector (X) to an array (F) based on an index list (I)?
+print('65. How to accumulate elements of a vector (X) to an array (F) based on an index list (I)?')
+X = [1,2,3,4,5,6]
+I = [1,3,9,3,4,1]
+F = np.bincount(I,X)
+print(F)
+
+print("******************** End of 65 questions ********************")
