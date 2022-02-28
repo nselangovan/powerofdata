@@ -1,4 +1,4 @@
-import math
+#import math
 import re
 def check(email):
 # pass the regular expression
