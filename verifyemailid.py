@@ -19,17 +19,28 @@ def check(email):
         valid_email_id_flag = '2'
         return valid_email_id_flag
 
-
 user_name = input('Enter the valid Email id : ')
 valid_email_id_flag = check(user_name)
-
-print('my val ', valid_email_id_flag)
+user_name =user_name.upper()
+print('user name ' , user_name)
 if (valid_email_id_flag == '1'):
-    first_name = input('Enter the first name : ')
-    last_name = input('Enter the last name : ')
-    password = input('Enter the password : ')
-    email_id = user_name
-# my_str = [[user_name],[first_name],[first_name],[password],[email_id]]
-my_str = user_name # + "','" + first_name +"','"+first_name+"','"+password+"','"+email_id"'"
-print(my_str)
-
+    df = pd.read_csv('employee_file2.csv')
+    lv_validate = list(df["username"])
+    #print(lv_validate , type(lv_validate))
+    if user_name in lv_validate:
+        print('i am there already')
+        #print('my val ', valid_email_id_flag)
+    else:
+        if (valid_email_id_flag == '1'):
+            first_name = input('Enter the first name : ')
+            last_name = input('Enter the last name : ')
+            password = input('Enter the password : ')
+            email_id = user_name
+            with open('employee_file2.csv', mode='a') as csv_file:
+                fieldnames = ['username', 'firstname', 'lastname', 'email','password']
+                writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+                #writer.writeheader()
+                writer.writerow({'username': user_name, 'firstname': first_name, 'lastname': last_name , 'email': user_name , 'password':password})
+else:
+    print('Invalid Email id.')
+#print(df["username"])
