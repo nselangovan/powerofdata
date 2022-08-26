@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T10:45:19.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="L2YFtObmnh_p7lRNibp7" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T10:45:44.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Dlb3HimvNdQ79dAG3aqI" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1100" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-127" value="HIP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1047" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-129" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;System&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1273" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
