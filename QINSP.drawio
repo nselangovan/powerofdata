@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T09:19:18.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="y2d_RUfglCmiDLbNcuHS" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T09:19:54.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="efSW5nQYQ-1P9b98d4ts" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
             <mxPoint x="1460" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-31" target="Ds7rXdiiASAdY5Jr4DOG-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-31" value="SSCM AM Team" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1241" y="111" width="120" height="60" as="geometry" />
         </mxCell>
@@ -114,6 +117,9 @@
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-33" value="Load/Sent to ICIP System&lt;br&gt;Manually&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1441" y="227" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-37" target="Ds7rXdiiASAdY5Jr4DOG-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-37" value="IIP Team" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1441" y="111" width="120" height="60" as="geometry" />
@@ -147,6 +153,12 @@
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-50" value="Run As it is" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1233" y="373" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-52" value="Time ?&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1441" y="11" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-54" value="Time ?&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1241" y="11" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
