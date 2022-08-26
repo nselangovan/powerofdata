@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T10:07:24.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lG6kAcdtpXwi68UeZlAk" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T10:08:05.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="v-0a_d28XmuD3IQhdmeD" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1564" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-102" value="Prod Day + 1&lt;br&gt;(i.e. next Day)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1860" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-104" value="Job Shouldn&#39;t Run" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-104" value="Job Shouldn&#39;t Run" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2060" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-106" value="Delta run &lt;br&gt;should start" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
