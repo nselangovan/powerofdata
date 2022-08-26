@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T09:08:48.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zjnKilqQPqBtU4CWwd3X" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T09:12:15.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="51ha_RRuQBznAa3TlHNn" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -63,11 +63,25 @@
             <mxPoint x="621" y="182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-16" target="Ds7rXdiiASAdY5Jr4DOG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-16" value="ICS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="833" y="116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-19" value="SUP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="833" y="262" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-20" target="Ds7rXdiiASAdY5Jr4DOG-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-20" value="Production Date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1042" y="116" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-26" value="Run Manual Delta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1241" y="116" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
