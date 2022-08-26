@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T09:51:06.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="96onBgEWOXgTgUfwtnH5" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T09:51:24.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RKdG8NFheeTFquiDfGEY" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-74" value="Production Day" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1241" y="589" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-76" value="New Schedule to Be created&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-76" value="Create New Scheule" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1441" y="589" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
