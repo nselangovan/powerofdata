@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T10:10:09.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Kpmt1kPYl4GWk-CJxUtU" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-30T10:10:28.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A9TqRfdAUpYnDnrOOLBt" version="20.2.7" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="3128" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -559,6 +559,9 @@
         </mxCell>
         <mxCell id="Ctt8EHDePzNIU9pa3ZKF-1" value="SSCM-Quality Inspection&lt;br&gt;ETL Batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672" y="10" width="318" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ctt8EHDePzNIU9pa3ZKF-2" value="SSCM-Quality Inspection&lt;br&gt;ETL Batch - Old Flow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="620" width="318" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
