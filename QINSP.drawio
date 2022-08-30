@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T08:53:17.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5zKzoTk2_r0qS-6Q1Gnz" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T09:03:26.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Glc7v2kU1F94UH4m1lNE" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1738" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
           <mxGeometry x="2069" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-56" value="&lt;span&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;I_QUALITYINSPECTION_GENERIC_&lt;br&gt;&amp;lt;TIMESTAMP&amp;gt;.zip&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="847" y="759" width="120" height="60" as="geometry" />
+          <mxGeometry x="847" y="793" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-127" target="Ds7rXdiiASAdY5Jr4DOG-129" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -321,8 +321,10 @@
         <mxCell id="CM296S6hJZvwlvlU79p7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-118" target="Ds7rXdiiASAdY5Jr4DOG-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CM296S6hJZvwlvlU79p7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-118" target="CM296S6hJZvwlvlU79p7-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CM296S6hJZvwlvlU79p7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2353.111111111111" y="1259" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-118" value="Prod Day" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2293" y="1160" width="120" height="60" as="geometry" />
@@ -368,9 +370,6 @@
         </mxCell>
         <mxCell id="CM296S6hJZvwlvlU79p7-6" value="Create new Schedule" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1872" y="1160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CM296S6hJZvwlvlU79p7-11" value="Base Load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2293" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
