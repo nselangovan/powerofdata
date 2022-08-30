@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T10:03:59.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tFkhUR8vTbEoCFNnF5Jx" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-30T10:10:09.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Kpmt1kPYl4GWk-CJxUtU" version="20.2.7" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3128" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -556,6 +556,9 @@
         </mxCell>
         <mxCell id="Ef7ck-IPVIIeofGbiMPI-53" value="HIP" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1047" y="472" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ctt8EHDePzNIU9pa3ZKF-1" value="SSCM-Quality Inspection&lt;br&gt;ETL Batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="10" width="318" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
