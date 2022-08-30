@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T08:47:55.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZdFYUobprJPQV267qlaZ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T08:48:36.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xH1RGwRDWufh2HXShIpe" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Quality_inspection">
     <mxGraphModel dx="1738" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
             <mxPoint x="2072" y="1254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-78" value="Create New Schedule" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-78" value="IIP Schedule" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1872" y="1224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-82" target="Ds7rXdiiASAdY5Jr4DOG-98" edge="1">
@@ -308,7 +308,7 @@
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-106" value="Delta run &lt;br&gt;should start on Next Day" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2500" y="989" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-108" value="SSCM Schedule will be created in above flow" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ds7rXdiiASAdY5Jr4DOG-108" value="Create New Schedule" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1872" y="1084" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ds7rXdiiASAdY5Jr4DOG-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ds7rXdiiASAdY5Jr4DOG-116" target="Ds7rXdiiASAdY5Jr4DOG-118" edge="1">
