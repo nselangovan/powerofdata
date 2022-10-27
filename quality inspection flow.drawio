@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T11:20:16.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Hm3zjHB36v1JrA9yb3Jx" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T11:20:52.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Xthhk9-lSZ-2Zt2WDBqi" version="20.2.7" type="github">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Page-1">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -45,7 +45,10 @@
         <mxCell id="VnxozGm96mBSchW9r4-d-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnxozGm96mBSchW9r4-d-15" target="VnxozGm96mBSchW9r4-d-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VnxozGm96mBSchW9r4-d-15" value="&lt;span style=&quot;background-color: initial;&quot;&gt;New Flow&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VnxozGm96mBSchW9r4-d-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnxozGm96mBSchW9r4-d-15" target="VnxozGm96mBSchW9r4-d-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnxozGm96mBSchW9r4-d-15" value="&lt;span style=&quot;background-color: initial;&quot;&gt;New Flow/File&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VnxozGm96mBSchW9r4-d-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnxozGm96mBSchW9r4-d-18" target="VnxozGm96mBSchW9r4-d-22">
@@ -116,6 +119,9 @@
         </mxCell>
         <mxCell id="VnxozGm96mBSchW9r4-d-49" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="441.25" width="120" height="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VnxozGm96mBSchW9r4-d-51" value="SSCM Job at 20:00 CET" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="470" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
