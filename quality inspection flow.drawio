@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T11:37:01.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hmtIEiWHjHQBLQzLKkGN" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T11:37:34.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6O2zJAT9bEQ5VWj4k-qv" version="20.2.7" type="github">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Page-1">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VnxozGm96mBSchW9r4-d-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Quality Inspection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VnxozGm96mBSchW9r4-d-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnxozGm96mBSchW9r4-d-4" target="VnxozGm96mBSchW9r4-d-9">
           <mxGeometry relative="1" as="geometry">
@@ -119,7 +119,7 @@
           <mxGeometry x="356" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VnxozGm96mBSchW9r4-d-56" value="New flow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="1280" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
