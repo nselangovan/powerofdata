@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T15:34:26.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Jmn2L8nCY2h8zTUvHWP6" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T15:37:54.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aAB1Qo8glWysQ0Lv08K7" version="20.5.1" type="github">
   <diagram id="9sQ3wwlIZSKOjp9Y-Qyn" name="Page-1">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -25,11 +25,20 @@
         <mxCell id="PCikprBORLeGA7gchWaB-6" value="&lt;span style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt; mft.ppe.inter.ikea.net&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="250" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PCikprBORLeGA7gchWaB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCikprBORLeGA7gchWaB-8" target="PCikprBORLeGA7gchWaB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PCikprBORLeGA7gchWaB-8" value="&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;Authorized IP&#39;s&lt;/div&gt;&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;192.176.232.119    ptdevoitp2soa1.ikeadt.com&lt;/div&gt;&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;192.176.232.120    ptoitp2soa1.ikeadt.com&lt;/div&gt;&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;192.176.232.121 cfoitp2soa1.ikeadt.com&lt;/div&gt;&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;192.176.232.122 oitp-pp01.ikeadt.com&lt;/div&gt;&lt;div style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ewa-rteLine&quot;&gt;192.176.232.123 oitp-it01.ikea.com&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PCikprBORLeGA7gchWaB-10" value="MFT user" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCikprBORLeGA7gchWaB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCikprBORLeGA7gchWaB-14" target="PCikprBORLeGA7gchWaB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCikprBORLeGA7gchWaB-14" value="Accessed denied" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
