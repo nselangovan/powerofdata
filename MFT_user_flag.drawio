@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T15:38:34.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yjRy-zABInEuFhSqzk9B" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T15:39:54.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wmTnl9GjkWS1Zc1xC9jE" version="20.5.1" type="github">
   <diagram id="9sQ3wwlIZSKOjp9Y-Qyn" name="Page-1">
     <mxGraphModel dx="1043" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PCikprBORLeGA7gchWaB-4" value="&lt;span style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;L-SCDNAP1-U-IOSSEELM&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCikprBORLeGA7gchWaB-6" value="&lt;span style=&quot;font-family: Calibri; font-size: 14.6667px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt; mft.ppe.inter.ikea.net&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="250" width="160" height="60" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="PCikprBORLeGA7gchWaB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCikprBORLeGA7gchWaB-14" target="PCikprBORLeGA7gchWaB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PCikprBORLeGA7gchWaB-14" value="Accessed denied" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="PCikprBORLeGA7gchWaB-14" value="Accessed denied" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
