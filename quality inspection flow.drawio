@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T09:35:33.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MkIoo1bXZLsLoWIpyt1H" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-07T09:35:57.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4zNk-cdwqXJyxdfmrLj9" version="20.6.0" type="github" pages="4">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Qualtiy">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
         <mxCell id="ALGlNUZH_N16Glv8e82p-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MnBYT2FZ1xwnekNuW4A7-1" source="MnBYT2FZ1xwnekNuW4A7-35" target="ALGlNUZH_N16Glv8e82p-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnBYT2FZ1xwnekNuW4A7-35" value="BaseLoad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
+        <mxCell id="MnBYT2FZ1xwnekNuW4A7-35" value="Base Load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
           <mxGeometry x="1236" y="156.25" width="120" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="MnBYT2FZ1xwnekNuW4A7-37" value="SSCM Job at 20:00 UTC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
@@ -216,7 +216,7 @@
         <mxCell id="ALGlNUZH_N16Glv8e82p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MnBYT2FZ1xwnekNuW4A7-1" source="ALGlNUZH_N16Glv8e82p-6" target="ALGlNUZH_N16Glv8e82p-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALGlNUZH_N16Glv8e82p-6" value="BaseLoad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
+        <mxCell id="ALGlNUZH_N16Glv8e82p-6" value="Delta Load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
           <mxGeometry x="1236" y="241.25" width="120" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="ALGlNUZH_N16Glv8e82p-7" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
@@ -246,7 +246,7 @@
         <mxCell id="ALGlNUZH_N16Glv8e82p-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MnBYT2FZ1xwnekNuW4A7-1" source="ALGlNUZH_N16Glv8e82p-16" target="ALGlNUZH_N16Glv8e82p-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALGlNUZH_N16Glv8e82p-16" value="BaseLoad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
+        <mxCell id="ALGlNUZH_N16Glv8e82p-16" value="Base Load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
           <mxGeometry x="1236" y="311.25" width="120" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="ALGlNUZH_N16Glv8e82p-17" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
