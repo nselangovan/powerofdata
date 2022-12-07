@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T09:27:19.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cjExXNhjEoWWlwk3kh2-" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-07T09:28:11.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DzD-fbN2zmik5gyYdGF_" version="20.6.0" type="github" pages="4">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Qualtiy">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -197,7 +197,10 @@
         <mxCell id="MnBYT2FZ1xwnekNuW4A7-34" value="HIP&lt;br&gt;Job 22:00 CET" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
           <mxGeometry x="680" y="440.5" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="MnBYT2FZ1xwnekNuW4A7-35" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
+        <mxCell id="ALGlNUZH_N16Glv8e82p-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MnBYT2FZ1xwnekNuW4A7-1" source="MnBYT2FZ1xwnekNuW4A7-35" target="ALGlNUZH_N16Glv8e82p-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MnBYT2FZ1xwnekNuW4A7-35" value="BaseLoad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
           <mxGeometry x="1215" y="281.25" width="120" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="MnBYT2FZ1xwnekNuW4A7-36" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
@@ -208,6 +211,9 @@
         </mxCell>
         <mxCell id="MnBYT2FZ1xwnekNuW4A7-38" value="Always Base load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
           <mxGeometry x="1290" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGlNUZH_N16Glv8e82p-0" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="MnBYT2FZ1xwnekNuW4A7-1">
+          <mxGeometry x="1376" y="281.13" width="120" height="38.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
