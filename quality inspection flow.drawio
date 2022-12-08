@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T08:11:26.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sTBdhs5TcRtOqZ0TMVk3" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-08T08:12:42.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XdXiz_a8aB0AQufKnInb" version="20.6.0" type="github" pages="5">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Quality">
     <mxGraphModel dx="782" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -654,7 +654,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NZduSar0jW0nT_QbmZX6" name="supplier classification Score Card">
-    <mxGraphModel dx="782" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -705,7 +705,10 @@
         <mxCell id="E9YUdenYrut6uIo07d5q-30" value="DNAP" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="239.5" width="120" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="E9YUdenYrut6uIo07d5q-33" value="Filter at HIP end&lt;br&gt;Job 21:00 CET" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="7Rz4zwJn_2hIMZXz2-EF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9YUdenYrut6uIo07d5q-33" target="7Rz4zwJn_2hIMZXz2-EF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9YUdenYrut6uIo07d5q-33" value="Event Based" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="321.5" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="7Rz4zwJn_2hIMZXz2-EF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9YUdenYrut6uIo07d5q-34" target="7Rz4zwJn_2hIMZXz2-EF-1">
@@ -722,6 +725,9 @@
         </mxCell>
         <mxCell id="7Rz4zwJn_2hIMZXz2-EF-1" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="241.13" width="120" height="37.87" as="geometry" />
+        </mxCell>
+        <mxCell id="7Rz4zwJn_2hIMZXz2-EF-3" value="As soon the file is dropped in the MFT path it will be sent to DNAP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="433" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
