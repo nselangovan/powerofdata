@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T12:45:36.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cG9hmJ3p-yy146qGjQDP" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-13T12:46:15.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="i0v3GMxtNLGuHVkRaEIX" version="20.6.0" type="github" pages="6">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Quality">
     <mxGraphModel dx="805" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PurchaseAgreement" id="4XlI2KuFBxdDJl-WZPrI">
-    <mxGraphModel dx="1610" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="805" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="b3ZRo3vfjdReImyrtKJi-0" />
         <mxCell id="b3ZRo3vfjdReImyrtKJi-1" parent="b3ZRo3vfjdReImyrtKJi-0" />
