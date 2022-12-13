@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T11:49:13.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KVgFv1meMZ_FmUib7Lg5" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-13T11:50:49.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_xtk0Txt5FgKps16HZZz" version="20.6.0" type="github" pages="6">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Quality">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PurchaseAgreement" id="4XlI2KuFBxdDJl-WZPrI">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="805" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="b3ZRo3vfjdReImyrtKJi-0" />
         <mxCell id="b3ZRo3vfjdReImyrtKJi-1" parent="b3ZRo3vfjdReImyrtKJi-0" />
@@ -617,13 +617,13 @@
         <mxCell id="b3ZRo3vfjdReImyrtKJi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b3ZRo3vfjdReImyrtKJi-1" source="b3ZRo3vfjdReImyrtKJi-23" target="b3ZRo3vfjdReImyrtKJi-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3ZRo3vfjdReImyrtKJi-23" value="&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;IDW&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
+        <mxCell id="b3ZRo3vfjdReImyrtKJi-23" value="&lt;span&gt;PSP&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
           <mxGeometry x="879" y="155" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="b3ZRo3vfjdReImyrtKJi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b3ZRo3vfjdReImyrtKJi-1" source="b3ZRo3vfjdReImyrtKJi-25" target="b3ZRo3vfjdReImyrtKJi-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3ZRo3vfjdReImyrtKJi-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;IIP_PLA_T&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IIP_PLA_TSO_T&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IIP_PGA_T&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IIP_PGA_COUNTRY_T&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
+        <mxCell id="b3ZRo3vfjdReImyrtKJi-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;CEM_CTR_HEAD&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM_PRICE&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
           <mxGeometry x="1036" y="135.5" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b3ZRo3vfjdReImyrtKJi-26" value="HIP&lt;br&gt;Job 01:00 UTC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
@@ -632,7 +632,7 @@
         <mxCell id="b3ZRo3vfjdReImyrtKJi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b3ZRo3vfjdReImyrtKJi-1" source="b3ZRo3vfjdReImyrtKJi-28" target="b3ZRo3vfjdReImyrtKJi-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3ZRo3vfjdReImyrtKJi-28" value="Base Load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
+        <mxCell id="b3ZRo3vfjdReImyrtKJi-28" value="Delta Load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="b3ZRo3vfjdReImyrtKJi-1">
           <mxGeometry x="1236" y="156.25" width="120" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="gKmYaq24NMchenZIa9Ba-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b3ZRo3vfjdReImyrtKJi-1" source="b3ZRo3vfjdReImyrtKJi-29" target="gKmYaq24NMchenZIa9Ba-0">
