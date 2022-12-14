@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T05:52:54.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Jr6KYN-1Hf0irXBDm__j" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-14T05:53:41.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="AQ9aQPryVNLsavP3dw2z" version="20.6.2" type="github" pages="7">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Quality">
     <mxGraphModel dx="782" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1019,7 +1019,7 @@
             <mxPoint x="1280" y="488.4666666666667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOslXVZTctHNpb2lfsWW-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;CEM_CTR_HEAD&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM_PRICE&lt;/div&gt;&lt;div&gt;CEM_CTR_BUSINESS_TEAM&lt;/div&gt;&lt;div&gt;CEM_CTR_TEMP_PAY_TERM&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM_SITE&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM_CD_PRICE&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM_CD_PRICE_SUB_GRID&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
+        <mxCell id="hOslXVZTctHNpb2lfsWW-53" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;CEM_SUPPLIER_HEAD&lt;/div&gt;&lt;div&gt;CEM_SUP_ADDRESS&lt;/div&gt;&lt;div&gt;CEM_SUP_BUSINESS_TEAM&lt;/div&gt;&lt;div&gt;CEM_SUP_COMMUNICATION&lt;/div&gt;&lt;div&gt;CEM_SUP_COMM_ROLE&lt;/div&gt;&lt;div&gt;CEM_SUP_CATEGORY&lt;/div&gt;&lt;div&gt;CEM_SUP_CLASSIFICATION&lt;/div&gt;&lt;div&gt;CEM_SUP_TAX_REG&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
           <mxGeometry x="1036" y="418" width="244" height="133" as="geometry" />
         </mxCell>
         <mxCell id="hOslXVZTctHNpb2lfsWW-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hOslXVZTctHNpb2lfsWW-1" source="hOslXVZTctHNpb2lfsWW-55" target="hOslXVZTctHNpb2lfsWW-56">
