@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T05:48:40.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="X6hxXJAdW1S215X3XSrZ" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-14T05:52:54.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Jr6KYN-1Hf0irXBDm__j" version="20.6.2" type="github" pages="7">
   <diagram id="OfZ0Cu1uqhGOfduBGace" name="Quality">
     <mxGraphModel dx="782" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -846,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Supplier" id="lgjzxZ84h2hb-Jzokp2y">
-    <mxGraphModel dx="782" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="hOslXVZTctHNpb2lfsWW-0" />
         <mxCell id="hOslXVZTctHNpb2lfsWW-1" parent="hOslXVZTctHNpb2lfsWW-0" />
@@ -935,7 +935,7 @@
         <mxCell id="hOslXVZTctHNpb2lfsWW-27" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;CEM_CTR_HEAD&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM&lt;/div&gt;&lt;div&gt;CEM_CTR_ITEM_PRICE&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
           <mxGeometry x="1036" y="135.5" width="244" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hOslXVZTctHNpb2lfsWW-28" value="HIP&lt;br&gt;Job 01:00 UTC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
+        <mxCell id="hOslXVZTctHNpb2lfsWW-28" value="HIP&lt;br&gt;Job 19:00 UTC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
           <mxGeometry x="680" y="440.5" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="hOslXVZTctHNpb2lfsWW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hOslXVZTctHNpb2lfsWW-1" source="hOslXVZTctHNpb2lfsWW-30" target="hOslXVZTctHNpb2lfsWW-34">
@@ -947,7 +947,7 @@
         <mxCell id="hOslXVZTctHNpb2lfsWW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hOslXVZTctHNpb2lfsWW-1" source="hOslXVZTctHNpb2lfsWW-32" target="hOslXVZTctHNpb2lfsWW-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOslXVZTctHNpb2lfsWW-32" value="SSCM Job at 0:30 UTC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
+        <mxCell id="hOslXVZTctHNpb2lfsWW-32" value="SSCM Job at 18:00 UTC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
           <mxGeometry x="520" y="441.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hOslXVZTctHNpb2lfsWW-33" value="Always Base load from SSCM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
@@ -1052,7 +1052,7 @@
         <mxCell id="hOslXVZTctHNpb2lfsWW-63" value="Runs Daily" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
           <mxGeometry x="1497" y="617.13" width="120" height="38.88" as="geometry" />
         </mxCell>
-        <mxCell id="hOslXVZTctHNpb2lfsWW-64" value="12 (Every 2 hours)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
+        <mxCell id="hOslXVZTctHNpb2lfsWW-64" value="Daily once" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="hOslXVZTctHNpb2lfsWW-1">
           <mxGeometry x="520" y="520.5" width="120" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="hOslXVZTctHNpb2lfsWW-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hOslXVZTctHNpb2lfsWW-1" source="hOslXVZTctHNpb2lfsWW-66" target="hOslXVZTctHNpb2lfsWW-68">
