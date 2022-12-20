@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T10:01:49.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="RnYu8cAA8CNCJRNy9nSu" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-20T10:02:38.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="oZvoebk5nsdfhGeTKyh8" type="github" pages="3">
   <diagram id="L0H8be3r2yKKMvcsQJuc" name="PM">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -99,16 +99,19 @@
         <mxCell id="qubZ7cQ_90YpTaZW9MEQ-0" />
         <mxCell id="qubZ7cQ_90YpTaZW9MEQ-1" parent="qubZ7cQ_90YpTaZW9MEQ-0" />
         <mxCell id="qubZ7cQ_90YpTaZW9MEQ-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CEM_SE_PROP_ITEM_T&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-1">
-          <mxGeometry x="60" y="130" width="140" height="120" as="geometry" />
+          <mxGeometry x="60" y="130" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="qubZ7cQ_90YpTaZW9MEQ-3" value="PRICE_TK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
+        <mxCell id="qubZ7cQ_90YpTaZW9MEQ-3" value="PROP_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qubZ7cQ_90YpTaZW9MEQ-4" value="CD_CODE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
+        <mxCell id="qubZ7cQ_90YpTaZW9MEQ-4" value="PROP_ITEM_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qubZ7cQ_90YpTaZW9MEQ-5" value="CD_LEVEL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
+        <mxCell id="qubZ7cQ_90YpTaZW9MEQ-5" value="RFP_ITEM_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptPESs3He6OgOeFAxxu-0" value="CUR_CODE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-2">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qubZ7cQ_90YpTaZW9MEQ-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CEM_SE_PROP_SUB_GRID_T&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="qubZ7cQ_90YpTaZW9MEQ-1">
           <mxGeometry x="290" y="130" width="140" height="180" as="geometry" />
