@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T09:37:07.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="FOOj85wil-pYk5b9e7vF" type="github">
-  <diagram id="L0H8be3r2yKKMvcsQJuc" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-12-20T09:38:06.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="lFLio85UExfA3HsNNzgV" type="github">
+  <diagram id="L0H8be3r2yKKMvcsQJuc" name="Contract">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -47,12 +47,6 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2wu_5CJWOTaZ-f7hUUx2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="2wu_5CJWOTaZ-f7hUUx2-3" target="2wu_5CJWOTaZ-f7hUUx2-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2wu_5CJWOTaZ-f7hUUx2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="2wu_5CJWOTaZ-f7hUUx2-4" target="2wu_5CJWOTaZ-f7hUUx2-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2wu_5CJWOTaZ-f7hUUx2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="2wu_5CJWOTaZ-f7hUUx2-6" target="2wu_5CJWOTaZ-f7hUUx2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
